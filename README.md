@@ -1,6 +1,7 @@
 # swagger
 
-@font-face {
+<pre>
+    @font-face {
     font-family: "swagger";
     font-weight: 400;
     font-style: normal;
@@ -14,3 +15,5 @@
 .swagger {
     font-family: "swagger";
 }
+
+</pre>
